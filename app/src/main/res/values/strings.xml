@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Battery Manager</string>
+    <string name="in_this_app_you_can">In this app you can</string>
+    <string name="info_title">Check your battery state</string>
+    <string name="voltage">voltage</string>
+    <string name="technology">technology</string>
+    <string name="plug_state">plug state</string>
+    <string name="plug_in">plug in</string>
+    <string name="plug_out">plug out</string>
+    <string name="temperature">temperature</string>
+    <string name="app_battery_usage">App Battery Usage</string>
+    <string name="battery_usage">Battery Usage</string>
+    <string name="battery_usage_last_24">Battery Usage last 24 hours</string>
+
+    <string name="battery_dead">Your battery is fully dead,change it</string>
+    <string name="battery_good">Your battery is good,take care of that</string>
+    <string name="battery_cold">Your battery is cold,it\'s OK</string>
+    <string name="battery_overheat">Your battery is overheat,wait to be cold</string>
+    <string name="battery_over_voltage">Your battery is over voltage,wait to be OK</string>
+    <string name="battery_else">Battery state not available !</string>
+
+    <string name="battery_state_plug_in">Your phone is charging</string>
+    <string name="battery_state_plug_out">Your phone is using battery</string>
+    <string name="battery_state_full">Your phone is fully charged !</string>
+
+    <string name="service_is_off">Service is OFF</string>
+    <string name="service_is_on">Service is ON</string>
+
+    <string name="service_is_turn_on">Service is turn ON</string>
+    <string name="service_is_turn_off">Service is turn OFF</string>
+    <string name="powered_by">Powered By H.R.M</string>
+    <string name="low_battery_alarm_is_off">Low battery alarm is OFF</string>
+    <string name="low_battery_alarm_is_on">Low battery alarm is ON</string>
+    <string name="alarm_active_on">Alarm active on :</string>
+</resources>
